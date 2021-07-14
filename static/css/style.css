@@ -1,0 +1,59 @@
+ body{
+  background-image: linear-gradient(to bottom right, blue, red); 
+    color: white;
+ }
+.text{
+    text-align: center;
+ }
+h1{
+    font-size: 80px;
+    text-shadow: black;
+}
+p{
+    font-size: 45px;
+}
+form{
+    margin: 0 auto;
+    text-align: center;
+}
+input{
+    text-align: center;
+    padding: 15px 120px 10px 120px;
+    margin: 10px;
+    border: 3px solid black;
+    border-radius: 4px;
+    color: black;
+}
+.button{
+    border:1px solid black;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    background-image: linear-gradient( blue, red); 
+    width: auto;
+    
+}
+a{      
+    text-decoration: none;
+    text-align: center;
+    color: white;
+}
+#back{
+
+}
+.text-center {
+    margin-top: 40px;
+  text-align: center;
+}
+#output{
+    padding-top: 200px;
+    margin: auto;
+    font-size: 80px;
+    text-align: center;
+    text-shadow: 2px 2px 5px black;
+
+}
